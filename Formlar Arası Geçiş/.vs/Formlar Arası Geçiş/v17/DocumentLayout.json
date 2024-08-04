@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90546\\Desktop\\LearnCSharp\\LearnCSharp\\Formlar Aras\u0131 Ge\u00E7i\u015F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48D49685-2B03-435A-97A0-790A9809E237}|Formlar Aras\u0131 Ge\u00E7i\u015F\\Formlar Aras\u0131 Ge\u00E7i\u015F.csproj|C:\\Users\\90546\\Desktop\\LearnCSharp\\LearnCSharp\\Formlar Aras\u0131 Ge\u00E7i\u015F\\formlar aras\u0131 ge\u00E7i\u015F\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48D49685-2B03-435A-97A0-790A9809E237}|Formlar Aras\u0131 Ge\u00E7i\u015F\\Formlar Aras\u0131 Ge\u00E7i\u015F.csproj|solutionrelative:formlar aras\u0131 ge\u00E7i\u015F\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D49685-2B03-435A-97A0-790A9809E237}|Formlar Aras\u0131 Ge\u00E7i\u015F\\Formlar Aras\u0131 Ge\u00E7i\u015F.csproj|C:\\Users\\90546\\Desktop\\LearnCSharp\\LearnCSharp\\Formlar Aras\u0131 Ge\u00E7i\u015F\\formlar aras\u0131 ge\u00E7i\u015F\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{48D49685-2B03-435A-97A0-790A9809E237}|Formlar Aras\u0131 Ge\u00E7i\u015F\\Formlar Aras\u0131 Ge\u00E7i\u015F.csproj|solutionrelative:formlar aras\u0131 ge\u00E7i\u015F\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48D49685-2B03-435A-97A0-790A9809E237}|Formlar Aras\u0131 Ge\u00E7i\u015F\\Formlar Aras\u0131 Ge\u00E7i\u015F.csproj|c:\\users\\90546\\desktop\\learncsharp\\learncsharp\\formlar aras\u0131 ge\u00E7i\u015F\\formlar aras\u0131 ge\u00E7i\u015F\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48D49685-2B03-435A-97A0-790A9809E237}|Formlar Aras\u0131 Ge\u00E7i\u015F\\Formlar Aras\u0131 Ge\u00E7i\u015F.csproj|solutionrelative:formlar aras\u0131 ge\u00E7i\u015F\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\90546\\Desktop\\LearnCSharp\\LearnCSharp\\Formlar Aras\u0131 Ge\u00E7i\u015F\\Formlar Aras\u0131 Ge\u00E7i\u015F\\Form1.cs",
+              "RelativeDocumentMoniker": "Formlar Aras\u0131 Ge\u00E7i\u015F\\Form1.cs",
+              "ToolTip": "C:\\Users\\90546\\Desktop\\LearnCSharp\\LearnCSharp\\Formlar Aras\u0131 Ge\u00E7i\u015F\\Formlar Aras\u0131 Ge\u00E7i\u015F\\Form1.cs",
+              "RelativeToolTip": "Formlar Aras\u0131 Ge\u00E7i\u015F\\Form1.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:49:48.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\90546\\Desktop\\LearnCSharp\\LearnCSharp\\Formlar Aras\u0131 Ge\u00E7i\u015F\\Formlar Aras\u0131 Ge\u00E7i\u015F\\Form1.cs",
+              "RelativeDocumentMoniker": "Formlar Aras\u0131 Ge\u00E7i\u015F\\Form1.cs",
+              "ToolTip": "C:\\Users\\90546\\Desktop\\LearnCSharp\\LearnCSharp\\Formlar Aras\u0131 Ge\u00E7i\u015F\\Formlar Aras\u0131 Ge\u00E7i\u015F\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Formlar Aras\u0131 Ge\u00E7i\u015F\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:40:54.104Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\90546\\Desktop\\LearnCSharp\\LearnCSharp\\Formlar Aras\u0131 Ge\u00E7i\u015F\\Formlar Aras\u0131 Ge\u00E7i\u015F\\Form2.cs",
+              "RelativeDocumentMoniker": "Formlar Aras\u0131 Ge\u00E7i\u015F\\Form2.cs",
+              "ToolTip": "C:\\Users\\90546\\Desktop\\LearnCSharp\\LearnCSharp\\Formlar Aras\u0131 Ge\u00E7i\u015F\\Formlar Aras\u0131 Ge\u00E7i\u015F\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Formlar Aras\u0131 Ge\u00E7i\u015F\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T10:46:41.732Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
