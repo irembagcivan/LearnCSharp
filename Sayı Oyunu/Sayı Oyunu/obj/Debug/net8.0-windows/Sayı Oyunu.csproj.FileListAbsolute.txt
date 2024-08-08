@@ -1,0 +1,16 @@
+C:\Users\90546\source\repos\Sayı Oyunu\Sayı Oyunu\bin\Debug\net8.0-windows\Sayı Oyunu.exe
+C:\Users\90546\source\repos\Sayı Oyunu\Sayı Oyunu\bin\Debug\net8.0-windows\Sayı Oyunu.deps.json
+C:\Users\90546\source\repos\Sayı Oyunu\Sayı Oyunu\bin\Debug\net8.0-windows\Sayı Oyunu.runtimeconfig.json
+C:\Users\90546\source\repos\Sayı Oyunu\Sayı Oyunu\bin\Debug\net8.0-windows\Sayı Oyunu.dll
+C:\Users\90546\source\repos\Sayı Oyunu\Sayı Oyunu\bin\Debug\net8.0-windows\Sayı Oyunu.pdb
+C:\Users\90546\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\net8.0-windows\Sayı_Oyunu.Form1.resources
+C:\Users\90546\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\net8.0-windows\Sayı Oyunu.csproj.GenerateResource.cache
+C:\Users\90546\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\net8.0-windows\Sayı Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90546\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\net8.0-windows\Sayı Oyunu.AssemblyInfoInputs.cache
+C:\Users\90546\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\net8.0-windows\Sayı Oyunu.AssemblyInfo.cs
+C:\Users\90546\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\net8.0-windows\Sayı Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\90546\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\net8.0-windows\Sayı Oyunu.dll
+C:\Users\90546\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\net8.0-windows\refint\Sayı Oyunu.dll
+C:\Users\90546\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\net8.0-windows\Sayı Oyunu.pdb
+C:\Users\90546\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\net8.0-windows\Sayı Oyunu.genruntimeconfig.cache
+C:\Users\90546\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\net8.0-windows\ref\Sayı Oyunu.dll
