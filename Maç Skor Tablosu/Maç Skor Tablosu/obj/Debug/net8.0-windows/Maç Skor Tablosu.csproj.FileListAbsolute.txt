@@ -1,0 +1,18 @@
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Maç Skor Tablosu\Maç Skor Tablosu\bin\Debug\net8.0-windows\Maç Skor Tablosu.exe
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Maç Skor Tablosu\Maç Skor Tablosu\bin\Debug\net8.0-windows\Maç Skor Tablosu.deps.json
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Maç Skor Tablosu\Maç Skor Tablosu\bin\Debug\net8.0-windows\Maç Skor Tablosu.runtimeconfig.json
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Maç Skor Tablosu\Maç Skor Tablosu\bin\Debug\net8.0-windows\Maç Skor Tablosu.dll
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Maç Skor Tablosu\Maç Skor Tablosu\bin\Debug\net8.0-windows\Maç Skor Tablosu.pdb
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Maç Skor Tablosu\Maç Skor Tablosu\obj\Debug\net8.0-windows\Maç_Skor_Tablosu.Form1.resources
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Maç Skor Tablosu\Maç Skor Tablosu\obj\Debug\net8.0-windows\Maç_Skor_Tablosu.Properties.Resources.resources
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Maç Skor Tablosu\Maç Skor Tablosu\obj\Debug\net8.0-windows\Maç Skor Tablosu.csproj.GenerateResource.cache
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Maç Skor Tablosu\Maç Skor Tablosu\obj\Debug\net8.0-windows\Maç Skor Tablosu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Maç Skor Tablosu\Maç Skor Tablosu\obj\Debug\net8.0-windows\Maç Skor Tablosu.AssemblyInfoInputs.cache
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Maç Skor Tablosu\Maç Skor Tablosu\obj\Debug\net8.0-windows\Maç Skor Tablosu.AssemblyInfo.cs
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Maç Skor Tablosu\Maç Skor Tablosu\obj\Debug\net8.0-windows\Maç Skor Tablosu.csproj.CoreCompileInputs.cache
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Maç Skor Tablosu\Maç Skor Tablosu\obj\Debug\net8.0-windows\Maç Skor Tablosu.sourcelink.json
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Maç Skor Tablosu\Maç Skor Tablosu\obj\Debug\net8.0-windows\Maç Skor Tablosu.dll
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Maç Skor Tablosu\Maç Skor Tablosu\obj\Debug\net8.0-windows\refint\Maç Skor Tablosu.dll
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Maç Skor Tablosu\Maç Skor Tablosu\obj\Debug\net8.0-windows\Maç Skor Tablosu.pdb
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Maç Skor Tablosu\Maç Skor Tablosu\obj\Debug\net8.0-windows\Maç Skor Tablosu.genruntimeconfig.cache
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Maç Skor Tablosu\Maç Skor Tablosu\obj\Debug\net8.0-windows\ref\Maç Skor Tablosu.dll
