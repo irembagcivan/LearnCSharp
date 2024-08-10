@@ -1,0 +1,23 @@
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\bin\Debug\net8.0-windows\Radyo Programı.exe
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\bin\Debug\net8.0-windows\Radyo Programı.deps.json
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\bin\Debug\net8.0-windows\Radyo Programı.runtimeconfig.json
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\bin\Debug\net8.0-windows\Radyo Programı.dll
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\bin\Debug\net8.0-windows\Radyo Programı.pdb
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\bin\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\bin\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\obj\Debug\net8.0-windows\Interop.WMPLib.dll
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\obj\Debug\net8.0-windows\AxInterop.WMPLib.dll
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\obj\Debug\net8.0-windows\Radyo Programı.csproj.ResolveComReference.cache
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\obj\Debug\net8.0-windows\Radyo_Programı.Form1.resources
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\obj\Debug\net8.0-windows\Radyo Programı.csproj.GenerateResource.cache
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\obj\Debug\net8.0-windows\Radyo Programı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\obj\Debug\net8.0-windows\Radyo Programı.AssemblyInfoInputs.cache
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\obj\Debug\net8.0-windows\Radyo Programı.AssemblyInfo.cs
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\obj\Debug\net8.0-windows\Radyo Programı.csproj.CoreCompileInputs.cache
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\obj\Debug\net8.0-windows\Radyo Programı.sourcelink.json
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\obj\Debug\net8.0-windows\Radyo Programı.dll
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\obj\Debug\net8.0-windows\refint\Radyo Programı.dll
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\obj\Debug\net8.0-windows\Radyo Programı.pdb
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\obj\Debug\net8.0-windows\Radyo Programı.genruntimeconfig.cache
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\obj\Debug\net8.0-windows\ref\Radyo Programı.dll
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\For Döngüsü Örnekleri\Radyo Programı\Radyo Programı\obj\Debug\net8.0-windows\Radyo_Programı.Properties.Resources.resources
