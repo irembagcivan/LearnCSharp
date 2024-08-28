@@ -1,0 +1,17 @@
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Menü Strip\Menü Strip\bin\Debug\net8.0-windows\Menü Strip.exe
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Menü Strip\Menü Strip\bin\Debug\net8.0-windows\Menü Strip.deps.json
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Menü Strip\Menü Strip\bin\Debug\net8.0-windows\Menü Strip.runtimeconfig.json
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Menü Strip\Menü Strip\bin\Debug\net8.0-windows\Menü Strip.dll
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Menü Strip\Menü Strip\bin\Debug\net8.0-windows\Menü Strip.pdb
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Menü Strip\Menü Strip\obj\Debug\net8.0-windows\Menü_Strip.Form1.resources
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Menü Strip\Menü Strip\obj\Debug\net8.0-windows\Menü Strip.csproj.GenerateResource.cache
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Menü Strip\Menü Strip\obj\Debug\net8.0-windows\Menü Strip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Menü Strip\Menü Strip\obj\Debug\net8.0-windows\Menü Strip.AssemblyInfoInputs.cache
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Menü Strip\Menü Strip\obj\Debug\net8.0-windows\Menü Strip.AssemblyInfo.cs
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Menü Strip\Menü Strip\obj\Debug\net8.0-windows\Menü Strip.csproj.CoreCompileInputs.cache
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Menü Strip\Menü Strip\obj\Debug\net8.0-windows\Menü Strip.sourcelink.json
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Menü Strip\Menü Strip\obj\Debug\net8.0-windows\Menü Strip.dll
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Menü Strip\Menü Strip\obj\Debug\net8.0-windows\refint\Menü Strip.dll
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Menü Strip\Menü Strip\obj\Debug\net8.0-windows\Menü Strip.pdb
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Menü Strip\Menü Strip\obj\Debug\net8.0-windows\Menü Strip.genruntimeconfig.cache
+C:\Users\90546\Desktop\LearnCSharp\LearnCSharp\Menü Strip\Menü Strip\obj\Debug\net8.0-windows\ref\Menü Strip.dll
