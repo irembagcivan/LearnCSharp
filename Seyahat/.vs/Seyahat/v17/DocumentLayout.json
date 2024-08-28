@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90546\\Desktop\\LearnCSharp\\LearnCSharp\\Seyahat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{959E1E16-8137-4317-9CC6-34622A6F480A}|Seyahat\\Seyahat.csproj|c:\\users\\90546\\desktop\\learncsharp\\learncsharp\\seyahat\\seyahat\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E1E16-8137-4317-9CC6-34622A6F480A}|Seyahat\\Seyahat.csproj|solutionrelative:seyahat\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E1E16-8137-4317-9CC6-34622A6F480A}|Seyahat\\Seyahat.csproj|c:\\users\\90546\\desktop\\learncsharp\\learncsharp\\seyahat\\seyahat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{959E1E16-8137-4317-9CC6-34622A6F480A}|Seyahat\\Seyahat.csproj|solutionrelative:seyahat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E1E16-8137-4317-9CC6-34622A6F480A}|Seyahat\\Seyahat.csproj|c:\\users\\90546\\desktop\\learncsharp\\learncsharp\\seyahat\\seyahat\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{959E1E16-8137-4317-9CC6-34622A6F480A}|Seyahat\\Seyahat.csproj|solutionrelative:seyahat\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{959E1E16-8137-4317-9CC6-34622A6F480A}|Seyahat\\Seyahat.csproj|c:\\users\\90546\\desktop\\learncsharp\\learncsharp\\seyahat\\seyahat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{959E1E16-8137-4317-9CC6-34622A6F480A}|Seyahat\\Seyahat.csproj|solutionrelative:seyahat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\90546\\Desktop\\LearnCSharp\\LearnCSharp\\Seyahat\\Seyahat\\Form2.cs",
+              "RelativeDocumentMoniker": "Seyahat\\Form2.cs",
+              "ToolTip": "C:\\Users\\90546\\Desktop\\LearnCSharp\\LearnCSharp\\Seyahat\\Seyahat\\Form2.cs",
+              "RelativeToolTip": "Seyahat\\Form2.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T19:00:10.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\90546\\Desktop\\LearnCSharp\\LearnCSharp\\Seyahat\\Seyahat\\Form2.cs",
+              "RelativeDocumentMoniker": "Seyahat\\Form2.cs",
+              "ToolTip": "C:\\Users\\90546\\Desktop\\LearnCSharp\\LearnCSharp\\Seyahat\\Seyahat\\Form2.cs [Design]",
+              "RelativeToolTip": "Seyahat\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:25:50.667Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\90546\\Desktop\\LearnCSharp\\LearnCSharp\\Seyahat\\Seyahat\\Form1.cs",
+              "RelativeDocumentMoniker": "Seyahat\\Form1.cs",
+              "ToolTip": "C:\\Users\\90546\\Desktop\\LearnCSharp\\LearnCSharp\\Seyahat\\Seyahat\\Form1.cs",
+              "RelativeToolTip": "Seyahat\\Form1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA9wBYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:25:59.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\90546\\Desktop\\LearnCSharp\\LearnCSharp\\Seyahat\\Seyahat\\Form1.cs",
+              "RelativeDocumentMoniker": "Seyahat\\Form1.cs",
+              "ToolTip": "C:\\Users\\90546\\Desktop\\LearnCSharp\\LearnCSharp\\Seyahat\\Seyahat\\Form1.cs [Design]",
+              "RelativeToolTip": "Seyahat\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T18:22:31.628Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
