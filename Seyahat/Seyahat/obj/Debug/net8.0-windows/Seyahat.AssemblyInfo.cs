@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Seyahat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfc14cab4cec1263c6b790b9fe042c70badd7f46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a25cef768ac81424eb6e23cf0036d15dabc7c478")]
 [assembly: System.Reflection.AssemblyProductAttribute("Seyahat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Seyahat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

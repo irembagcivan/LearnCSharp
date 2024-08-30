@@ -11,7 +11,7 @@ namespace Seyahat
         {
             if(textBox1.Text == "irembagcivan" && textBox2.Text == "1234")
             {
-                Form2 seyahat = new Form2();
+                Form3 seyahat = new Form3();
                 seyahat.Show();
                 this.Hide();
             }
